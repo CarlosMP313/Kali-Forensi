@@ -50,16 +50,16 @@ Este script en Bash está diseñado para facilitar la instalación de un conjunt
 
 Ejecuta el script desde la terminal usando el siguiente comando:
 
-```bash
+``bash
 ./install_forensic_tools.sh [opciones]
 
 ## Ejemplos de Uso
 
 - Instalar herramientas de adquisición de datos:
 
-    ```bash
+    ``bash
     ./install_forensic_tools.sh -d
-    ```
+    ``
 
 - Instalar Volatility para análisis de memoria:
 
