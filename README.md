@@ -57,9 +57,9 @@ Ejecuta el script desde la terminal usando el siguiente comando:
 
 - Instalar herramientas de adquisición de datos:
 
-    ``bash
+    ```bash
     ./install_forensic_tools.sh -d
-    ``
+    ```
 
 - Instalar Volatility para análisis de memoria:
 
