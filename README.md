@@ -1,6 +1,7 @@
 #Instalador de Herramientas Forenses Digitales
 Este script en Bash está diseñado para facilitar la instalación de un conjunto de herramientas forenses digitales en sistemas basados en Linux. Permite instalar diversas herramientas específicas para adquisición de datos, análisis de red, análisis de sistemas, análisis de memoria, y recuperación de datos, proporcionando una manera eficiente y centralizada para configurar un entorno de análisis forense digital.
 Índice
+
 •	Requisitos
 •	Características
 •	Instalación
